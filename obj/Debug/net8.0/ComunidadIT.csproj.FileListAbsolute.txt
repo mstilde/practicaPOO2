@@ -1,0 +1,14 @@
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\bin\Debug\net8.0\ComunidadIT.exe
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\bin\Debug\net8.0\ComunidadIT.deps.json
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\bin\Debug\net8.0\ComunidadIT.runtimeconfig.json
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\bin\Debug\net8.0\ComunidadIT.dll
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\bin\Debug\net8.0\ComunidadIT.pdb
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\obj\Debug\net8.0\ComunidadIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\obj\Debug\net8.0\ComunidadIT.AssemblyInfoInputs.cache
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\obj\Debug\net8.0\ComunidadIT.AssemblyInfo.cs
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\obj\Debug\net8.0\ComunidadIT.csproj.CoreCompileInputs.cache
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\obj\Debug\net8.0\ComunidadIT.dll
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\obj\Debug\net8.0\refint\ComunidadIT.dll
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\obj\Debug\net8.0\ComunidadIT.pdb
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\obj\Debug\net8.0\ComunidadIT.genruntimeconfig.cache
+C:\Users\matis\OneDrive\Documentos\ComIT\ComIT.Proyectos\ComunidadIT\obj\Debug\net8.0\ref\ComunidadIT.dll
